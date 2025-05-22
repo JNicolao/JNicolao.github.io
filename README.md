@@ -1,2 +1,2 @@
 # jnicolao.github.io
-https://jnicolao.me
+https://jnicolao.com
